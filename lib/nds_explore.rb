@@ -6,7 +6,7 @@ directors_database
 
 def pretty_print_nds(nds)
   # Change the code below to pretty print the nds with pp
-  nil
+  pp nds
 end
 
 def print_first_directors_movie_titles
